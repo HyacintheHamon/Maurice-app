@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855107745069",
+    "firebase_url": "https://maurice-ff3f6.firebaseio.com",
+    "project_id": "maurice-ff3f6",
+    "storage_bucket": "maurice-ff3f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855107745069:android:ca649204306485f39ecfa4",
+        "android_client_info": {
+          "package_name": "com.maurice.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855107745069-4kdlasorcp1t3fmttuabmq0313t16mns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3qq1U8e9iyHbruUQSrbXwsk_RNtDQtHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855107745069-4kdlasorcp1t3fmttuabmq0313t16mns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855107745069-hlagqeu2sbnv6gvh0d4s2j18tik8aiim.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.maurice.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

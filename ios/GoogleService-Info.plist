@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>855107745069-hlagqeu2sbnv6gvh0d4s2j18tik8aiim.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.855107745069-hlagqeu2sbnv6gvh0d4s2j18tik8aiim</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCO2yMF7Tr1maBpGfhUdeBVVHO05LP9Ou0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>855107745069</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.maurice.app</string>
+	<key>PROJECT_ID</key>
+	<string>maurice-ff3f6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>maurice-ff3f6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:855107745069:ios:6e8743feee122b5f9ecfa4</string>
+	<key>DATABASE_URL</key>
+	<string>https://maurice-ff3f6.firebaseio.com</string>
+</dict>
+</plist>
